@@ -1,0 +1,41 @@
+# DocPilot Backend Requirements
+# Python 3.11+
+
+# Web Framework
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# LangGraph and LangChain
+langgraph==0.0.26
+langchain>=0.1.4
+langchain-core>=0.1.25
+
+# Vector Database + Embeddings (Pinecone Inference API)
+# No local embedding model needed - uses Pinecone's hosted llama-text-embed-v2
+pinecone==5.0.1
+
+# LLM API Client (Groq - llama-3.1-8b-instant)
+groq>=0.4.0
+
+# HTTP Client (for API calls)
+httpx==0.26.0
+aiohttp>=3.9.0
+
+# HTML Parsing (for link crawler)
+beautifulsoup4>=4.12.0
+
+# Async Support
+aiofiles==23.2.1
+
+# Utilities
+python-dotenv==1.0.0
+numpy>=1.24.0
+
+# Development
+pytest==7.4.4
+pytest-asyncio==0.23.3
+black==23.12.1
+isort==5.13.2
+mypy==1.8.0
